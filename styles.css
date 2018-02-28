@@ -1,0 +1,99 @@
+ a, p, h1, h2, h3, div, h6, span {
+    font-family: 'Questrial', sans-serif;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.special-item-btns {
+    margin: 0 20px 10px 0;
+}
+
+.special-item-description {
+   margin: 0 0 10px 20px; 
+}
+
+.special-item-btns button.btn {
+    margin: 0;
+    display: inline-block;
+    float: right;
+}
+
+.special-item-btns button.btn.rounded {
+    border-radius: 0 !important;
+}
+
+.special-item-btns button.btn.oval-left {
+     border-top-right-radius: 25px !important;
+     border-bottom-right-radius: 25px !important;
+    border-left: 0 !important;
+    
+}
+
+.special-item-btns button.btn.oval-right {
+     border-top-left-radius: 25px !important;
+     border-bottom-left-radius: 25px !important;
+}
+
+.iphone {
+    background-image: url(assets/iphone_6_space_gray_v3_.RGB_color.0115.png);
+    background-color: black;
+    height: 390px;
+    background-repeat: no-repeat;
+    background-position: 75% 20%;
+    background-size: 250px;
+}
+
+.carousel-inner {
+    background-color: black;
+}
+
+.slide-content {
+    margin-top: 12%;
+    margin-left: 20%;
+}
+
+.my-flex-card > div > div.card {
+    height: calc(100% - 15px);
+    margin-bottom: 15px;
+    position: relative;
+/*    padding: 0 20px;*/
+}
+
+.my-flex-card > div > div.card.sidenav {
+    height: auto;
+}
+
+.card-price {
+    position: absolute;
+    margin: 10px 0 0 10px;
+    background-color: #222;
+    color: #fff;
+    padding: 0 10px;
+}
+
+.card-price small {
+    position: relative;
+    top: -2px;
+}
+
+
+
+.bg-dark-my-background {
+    background-color: darkgrey;
+}
+
+#example1 {
+    background-image: url(assets/iphone_6_space_gray_v3_.RGB_color.0115.png), url(assets/placeholder.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+}
+
+.card-block.special {
+    padding-top: 30px;
+}

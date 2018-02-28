@@ -1,0 +1,2640 @@
+
+
+.Main_Menu {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 528;
+}
+.Cart {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 527;
+}
+.Shopping_Cart_Icon {
+  background-color: rgb(52, 62, 92);
+  position: absolute;
+  left: 1082px;
+  top: 36px;
+  width: 19px;
+  height: 17px;
+  z-index: 526;
+}
+.Dark {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 1107.937px;
+  top: 38.9px;
+  z-index: 525;
+}
+.Badge {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 524;
+}
+.Text {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 1155.937px;
+  top: 38.9px;
+  z-index: 523;
+}
+.Badge {
+  border-radius: 12px;
+  background-color: rgb(227, 232, 240);
+  position: absolute;
+  left: 1147px;
+  top: 33px;
+  width: 24px;
+  height: 24px;
+  z-index: 522;
+}
+.Small_Rounded_Button {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 519;
+}
+.Sign_In {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1221.092px;
+  top: 38.9px;
+  z-index: 518;
+}
+.Button {
+  border-width: 2px;
+  border-color: rgb(227, 232, 240);
+  border-style: solid;
+  border-radius: 16px;
+  position: absolute;
+  left: 1200px;
+  top: 29px;
+  width: 81px;
+  height: 28px;
+  z-index: 517;
+}
+.Menu {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 515;
+}
+.Divider {
+  background-color: rgb(240, 242, 247);
+  position: absolute;
+  left: 177px;
+  top: 0px;
+  width: 1px;
+  height: 90px;
+  z-index: 514;
+}
+.Menu_Icon {
+  background-color: rgb(62, 66, 90);
+  position: absolute;
+  left: 115px;
+  top: 37px;
+  width: 20px;
+  height: 14px;
+  z-index: 513;
+}
+.Logo {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 511;
+}
+.Portland {
+  background-color: rgb(58, 64, 91);
+  position: absolute;
+  left: 210px;
+  top: 32px;
+  width: 92px;
+  height: 25px;
+  z-index: 510;
+}
+.Menu {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 508;
+}
+.Home {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 457.937px;
+  top: 36.1px;
+  z-index: 507;
+}
+.Devices {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 528.937px;
+  top: 36.1px;
+  z-index: 506;
+}
+.About_Us {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 877.937px;
+  top: 36.1px;
+  z-index: 505;
+}
+.Guarantee {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 773.937px;
+  top: 36.1px;
+  z-index: 504;
+}
+.Delivery___Payment {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 609.937px;
+  top: 35.85px;
+  z-index: 503;
+}
+.Divider {
+  background-color: rgb(240, 242, 247);
+  position: absolute;
+  left: 0px;
+  top: 89px;
+  width: 1400px;
+  height: 1px;
+  z-index: 501;
+}
+.Links {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 500;
+}
+.Top_Sales {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(185, 190, 209);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 114.182px;
+  top: 111.9px;
+  z-index: 499;
+}
+.Brand_Focus {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(185, 190, 209);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 211.937px;
+  top: 111.9px;
+  z-index: 498;
+}
+.Hi_tech {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 332.937px;
+  top: 111.9px;
+  z-index: 497;
+}
+.Projects {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(185, 190, 209);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 534.937px;
+  top: 111.9px;
+  z-index: 496;
+}
+.Best_Sellers {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(185, 190, 209);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 414.937px;
+  top: 111.9px;
+  z-index: 495;
+}
+.Support {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(185, 190, 209);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 1000.092px;
+  top: 111.9px;
+  z-index: 494;
+}
+.Search {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 492;
+}
+.Divider {
+  background-color: rgb(240, 242, 247);
+  position: absolute;
+  left: 1284px;
+  top: 91px;
+  width: 1px;
+  height: 55px;
+  z-index: 491;
+}
+.Divider {
+  background-color: rgb(240, 242, 247);
+  position: absolute;
+  left: 1083px;
+  top: 91px;
+  width: 1px;
+  height: 55px;
+  z-index: 490;
+}
+.Search_Icon {
+  background-color: rgb(52, 62, 92);
+  position: absolute;
+  left: 1105px;
+  top: 112px;
+  width: 13px;
+  height: 13px;
+  z-index: 489;
+}
+.I’m_looking_for____ {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(161, 168, 189);
+  line-height: 1.714;
+  text-align: left;
+  position: absolute;
+  left: 1129.937px;
+  top: 129.252px;
+  z-index: 488;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 486;
+}
+.Placeholder {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 90px;
+  z-index: 485;
+}
+.Placeholder {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 90px;
+  width: 1400px;
+  height: 56px;
+  z-index: 483;
+}
+.Banner {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 481;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 480;
+}
+.iPhone_6_32Gb_Black {
+  font-size: 42px;
+  font-family: "Myriad Pro";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 210.844px;
+  top: 244.584px;
+  z-index: 479;
+}
+.At_first__for_some_time__I_was_not_able_to_answ {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(255, 255, 255);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 212.937px;
+  top: 390.546px;
+  width: 470px;
+  height: 64px;
+  z-index: 477;
+}
+.Rounded_Button {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 476;
+}
+.Buy_Now {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 267.937px;
+  top: 512.9px;
+  z-index: 475;
+}
+.Button {
+  border-radius: 21px;
+  background-color: rgb(39, 84, 235);
+  box-shadow: 0px 20px 40px 0px rgba(168, 173, 187, 0.62);
+  position: absolute;
+  left: 213px;
+  top: 498px;
+  width: 165px;
+  height: 42px;
+  z-index: 474;
+}
+.Circle_Button {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 472;
+}
+.Next_Icon {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 1211px;
+  top: 391px;
+  width: 6px;
+  height: 11px;
+  z-index: 471;
+}
+.Button {
+  border-width: 2px;
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+  border-radius: 50%;
+  opacity: 0.2;
+  position: absolute;
+  left: 1193px;
+  top: 375px;
+  width: 38px;
+  height: 38px;
+  z-index: 470;
+}
+.Pagination {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 468;
+}
+.Dot_Active {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 672px;
+  top: 608px;
+  width: 8px;
+  height: 8px;
+  z-index: 467;
+}
+.Dot {
+  border-width: 2px;
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+  border-radius: 50%;
+  opacity: 0.502;
+  position: absolute;
+  left: 688px;
+  top: 608px;
+  width: 4px;
+  height: 4px;
+  z-index: 466;
+}
+.Dot {
+  border-width: 2px;
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+  border-radius: 50%;
+  opacity: 0.502;
+  position: absolute;
+  left: 704px;
+  top: 608px;
+  width: 4px;
+  height: 4px;
+  z-index: 465;
+}
+.Dot {
+  border-width: 2px;
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+  border-radius: 50%;
+  opacity: 0.502;
+  position: absolute;
+  left: 720px;
+  top: 608px;
+  width: 4px;
+  height: 4px;
+  z-index: 464;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 462;
+}
+.Placeholder {
+  background-color: rgb(28, 30, 35);
+  position: absolute;
+  left: 0px;
+  top: 146px;
+  width: 1400px;
+  height: 500px;
+  z-index: 460;
+}
+.Sort {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 457;
+}
+.Sort_by {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 456;
+}
+.Sort_By: {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(161, 168, 189);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 134.092px;
+  top: 717.9px;
+  z-index: 455;
+}
+.Best_Match {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 253.937px;
+  top: 717.9px;
+  z-index: 454;
+}
+.Open_Icon {
+  background-color: rgb(52, 62, 92);
+  opacity: 0.302;
+  position: absolute;
+  left: 330px;
+  top: 721px;
+  width: 11px;
+  height: 6px;
+  z-index: 453;
+}
+.Line {
+  background-color: rgb(0, 0, 0);
+  opacity: 0.051;
+  position: absolute;
+  left: 360px;
+  top: 696px;
+  width: 2px;
+  height: 56px;
+  z-index: 452;
+}
+.Price {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 450;
+}
+.Price {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(161, 168, 189);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 666.937px;
+  top: 717.9px;
+  z-index: 449;
+}
+.Input_field {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 448;
+}
+._10 {
+  font-size: 13px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 732.654px;
+  top: 717.2px;
+  z-index: 447;
+}
+.Input_Field {
+  border-width: 1px;
+  border-color: rgb(227, 232, 240);
+  border-style: solid;
+  border-radius: 16px;
+  background-color: rgb(240, 242, 247);
+  position: absolute;
+  left: 718px;
+  top: 709px;
+  width: 62px;
+  height: 30px;
+  z-index: 446;
+}
+._ {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(161, 168, 189);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 787.859px;
+  top: 717.4px;
+  z-index: 444;
+}
+.Input_field {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 443;
+}
+._1000 {
+  font-size: 13px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 812.654px;
+  top: 717.2px;
+  z-index: 442;
+}
+.Input_Field {
+  border-width: 1px;
+  border-color: rgb(227, 232, 240);
+  border-style: solid;
+  border-radius: 16px;
+  background-color: rgb(240, 242, 247);
+  position: absolute;
+  left: 798px;
+  top: 709px;
+  width: 62px;
+  height: 30px;
+  z-index: 441;
+}
+.Free_Shipping {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 438;
+}
+.Checkbox {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 437;
+}
+.On {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 436;
+}
+.Check_Icon {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 899px;
+  top: 721px;
+  width: 10px;
+  height: 7px;
+  z-index: 435;
+}
+.Checkbox_BG_On {
+  border-radius: 50%;
+  background-color: rgb(0, 226, 170);
+  position: absolute;
+  left: 894px;
+  top: 714px;
+  width: 20px;
+  height: 20px;
+  z-index: 434;
+}
+.Free_Shipping {
+  font-size: 13px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.846;
+  text-align: left;
+  position: absolute;
+  left: 921.938px;
+  top: 736.558px;
+  z-index: 431;
+}
+.Keywords {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 429;
+}
+.Keywords {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(161, 168, 189);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 390.937px;
+  top: 717.9px;
+  z-index: 428;
+}
+.Tablet {
+  font-size: 13px;
+  font-family: "Myriad Pro";
+  color: rgb(185, 191, 211);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 490.59px;
+  top: 716.7px;
+  z-index: 427;
+}
+.Input_Field {
+  border-width: 1px;
+  border-color: rgb(227, 232, 240);
+  border-style: solid;
+  border-radius: 16px;
+  background-color: rgb(240, 242, 247);
+  position: absolute;
+  left: 477px;
+  top: 709px;
+  width: 161px;
+  height: 30px;
+  z-index: 426;
+}
+.Ship_to {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 424;
+}
+.Line {
+  background-color: rgb(0, 0, 0);
+  opacity: 0.051;
+  position: absolute;
+  left: 1057px;
+  top: 696px;
+  width: 2px;
+  height: 56px;
+  z-index: 423;
+}
+.Ship_to: {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(161, 168, 189);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 1082.092px;
+  top: 717.9px;
+  z-index: 422;
+}
+.USA {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 1220.937px;
+  top: 717.9px;
+  z-index: 421;
+}
+.Open_Icon {
+  background-color: rgb(197, 198, 207);
+  position: absolute;
+  left: 1252px;
+  top: 721px;
+  width: 9px;
+  height: 7px;
+  z-index: 420;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 418;
+}
+.Placeholder {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 115px;
+  top: 696px;
+  width: 1170px;
+  height: 56px;
+  z-index: 417;
+}
+.Sort {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 457;
+}
+.Sort_by {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 456;
+}
+.Sort_By: {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(161, 168, 189);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 134.092px;
+  top: 717.9px;
+  z-index: 455;
+}
+.Best_Match {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 253.937px;
+  top: 717.9px;
+  z-index: 454;
+}
+.Open_Icon {
+  background-color: rgb(52, 62, 92);
+  opacity: 0.302;
+  position: absolute;
+  left: 330px;
+  top: 721px;
+  width: 11px;
+  height: 6px;
+  z-index: 453;
+}
+.Line {
+  background-color: rgb(0, 0, 0);
+  opacity: 0.051;
+  position: absolute;
+  left: 360px;
+  top: 696px;
+  width: 2px;
+  height: 56px;
+  z-index: 452;
+}
+.Price {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 450;
+}
+.Price {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(161, 168, 189);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 666.937px;
+  top: 717.9px;
+  z-index: 449;
+}
+.Input_field {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 448;
+}
+._10 {
+  font-size: 13px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 732.654px;
+  top: 717.2px;
+  z-index: 447;
+}
+.Input_Field {
+  border-width: 1px;
+  border-color: rgb(227, 232, 240);
+  border-style: solid;
+  border-radius: 16px;
+  background-color: rgb(240, 242, 247);
+  position: absolute;
+  left: 718px;
+  top: 709px;
+  width: 62px;
+  height: 30px;
+  z-index: 446;
+}
+._ {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(161, 168, 189);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 787.859px;
+  top: 717.4px;
+  z-index: 444;
+}
+.Input_field {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 443;
+}
+._1000 {
+  font-size: 13px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 812.654px;
+  top: 717.2px;
+  z-index: 442;
+}
+.Input_Field {
+  border-width: 1px;
+  border-color: rgb(227, 232, 240);
+  border-style: solid;
+  border-radius: 16px;
+  background-color: rgb(240, 242, 247);
+  position: absolute;
+  left: 798px;
+  top: 709px;
+  width: 62px;
+  height: 30px;
+  z-index: 441;
+}
+.Free_Shipping {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 438;
+}
+.Checkbox {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 437;
+}
+.On {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 436;
+}
+.Check_Icon {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 899px;
+  top: 721px;
+  width: 10px;
+  height: 7px;
+  z-index: 435;
+}
+.Checkbox_BG_On {
+  border-radius: 50%;
+  background-color: rgb(0, 226, 170);
+  position: absolute;
+  left: 894px;
+  top: 714px;
+  width: 20px;
+  height: 20px;
+  z-index: 434;
+}
+.Free_Shipping {
+  font-size: 13px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.846;
+  text-align: left;
+  position: absolute;
+  left: 921.938px;
+  top: 736.558px;
+  z-index: 431;
+}
+.Keywords {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 429;
+}
+.Keywords {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(161, 168, 189);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 390.937px;
+  top: 717.9px;
+  z-index: 428;
+}
+.Tablet {
+  font-size: 13px;
+  font-family: "Myriad Pro";
+  color: rgb(185, 191, 211);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 490.59px;
+  top: 716.7px;
+  z-index: 427;
+}
+.Input_Field {
+  border-width: 1px;
+  border-color: rgb(227, 232, 240);
+  border-style: solid;
+  border-radius: 16px;
+  background-color: rgb(240, 242, 247);
+  position: absolute;
+  left: 477px;
+  top: 709px;
+  width: 161px;
+  height: 30px;
+  z-index: 426;
+}
+.Ship_to {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 424;
+}
+.Line {
+  background-color: rgb(0, 0, 0);
+  opacity: 0.051;
+  position: absolute;
+  left: 1057px;
+  top: 696px;
+  width: 2px;
+  height: 56px;
+  z-index: 423;
+}
+.Ship_to: {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(161, 168, 189);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 1082.092px;
+  top: 717.9px;
+  z-index: 422;
+}
+.USA {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 1220.937px;
+  top: 717.9px;
+  z-index: 421;
+}
+.Open_Icon {
+  background-color: rgb(197, 198, 207);
+  position: absolute;
+  left: 1252px;
+  top: 721px;
+  width: 9px;
+  height: 7px;
+  z-index: 420;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 418;
+}
+.Placeholder {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 115px;
+  top: 696px;
+  width: 1170px;
+  height: 56px;
+  z-index: 417;
+}
+.Products {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 291;
+}
+.Product_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 290;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 289;
+}
+._49_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.429;
+  text-align: center;
+  position: absolute;
+  left: 533.064px;
+  top: 1120.575px;
+  z-index: 288;
+}
+._Apple_TV_32GB {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(28, 30, 35);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 501.546px;
+  top: 1060.546px;
+  z-index: 287;
+}
+.Black {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(184, 191, 211);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 531.937px;
+  top: 1076.8px;
+  z-index: 286;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 284;
+}
+.Placeholder {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 415px;
+  top: 782px;
+  width: 270px;
+  height: 380px;
+  z-index: 282;
+}
+.Product_2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 279;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 278;
+}
+._49_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.429;
+  text-align: center;
+  position: absolute;
+  left: 1133.064px;
+  top: 1120.575px;
+  z-index: 277;
+}
+.Zendure_4_Port_USB {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(28, 30, 35);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 1086.938px;
+  top: 1040.5px;
+  z-index: 276;
+}
+.White {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(184, 191, 211);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1131.935px;
+  top: 1076.3px;
+  z-index: 275;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 273;
+}
+.Placeholder {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 1015px;
+  top: 782px;
+  width: 270px;
+  height: 380px;
+  z-index: 270;
+}
+.Product_3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 267;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 266;
+}
+._29_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.429;
+  text-align: center;
+  position: absolute;
+  left: 833.064px;
+  top: 1120.575px;
+  z-index: 265;
+}
+.Pebble_Time {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(28, 30, 35);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 811.937px;
+  top: 1040.5px;
+  z-index: 264;
+}
+.Red {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(184, 191, 211);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 838.937px;
+  top: 1076.8px;
+  z-index: 263;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 261;
+}
+.Placeholder {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 715px;
+  top: 782px;
+  width: 270px;
+  height: 380px;
+  z-index: 259;
+}
+.Product_4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 256;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 255;
+}
+._39_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.429;
+  text-align: center;
+  position: absolute;
+  left: 533.064px;
+  top: 1544.575px;
+  z-index: 254;
+}
+.Withings_Smart_Body__Analyzer_ws_50 {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(28, 30, 35);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 482.937px;
+  top: 1470.546px;
+  z-index: 253;
+}
+.Black {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(184, 191, 211);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 531.937px;
+  top: 1500.8px;
+  z-index: 252;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 250;
+}
+.Placeholder {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 415px;
+  top: 1192px;
+  width: 270px;
+  height: 380px;
+  z-index: 248;
+}
+.Product_5 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 245;
+}
+.Price {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 244;
+}
+.Text {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 739.046px;
+  top: 1207.857px;
+  z-index: 243;
+}
+.Label {
+  border-radius: 4px;
+  background-color: rgb(28, 30, 35);
+  position: absolute;
+  left: 727px;
+  top: 1204px;
+  width: 62px;
+  height: 24px;
+  z-index: 242;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 240;
+}
+.JBL_Charge_2_ {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(34, 35, 40);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 738.299px;
+  top: 1513.946px;
+  z-index: 239;
+}
+.Black {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgba(58, 64, 91, 0.302);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 737.937px;
+  top: 1540.8px;
+  z-index: 238;
+}
+.Segmendet_Ghost_Button {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 236;
+}
+.First {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 235;
+}
+._16__Gb {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(58, 64, 91);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1066.389px;
+  top: 1527.9px;
+  z-index: 234;
+}
+.Open_Icon {
+  background-color: rgb(255, 255, 255);
+  opacity: 0.302;
+  position: absolute;
+  left: 1113px;
+  top: 1531px;
+  width: 9px;
+  height: 6px;
+  z-index: 233;
+}
+.Button {
+  border-width: 2px;
+  border-color: rgb(240, 242, 247);
+  border-style: solid;
+  position: absolute;
+  left: 1034px;
+  top: 1517px;
+  width: 107px;
+  height: 30px;
+  z-index: 232;
+}
+.Second {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 230;
+}
+.Buy_Now {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(58, 64, 91);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1174.937px;
+  top: 1527.9px;
+  z-index: 229;
+}
+.Button {
+  border-width: 2px;
+  border-color: rgb(240, 242, 247);
+  border-style: solid;
+  position: absolute;
+  left: 1143px;
+  top: 1517px;
+  width: 117px;
+  height: 30px;
+  z-index: 228;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 225;
+}
+.Photo {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 224;
+}
+.Placeholder {
+  background-color: rgb(227, 232, 240);
+  position: absolute;
+  left: 715px;
+  top: 1192px;
+  width: 570px;
+  height: 305px;
+  z-index: 222;
+}
+.Placeholder {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 715px;
+  top: 1497px;
+  width: 570px;
+  height: 75px;
+  z-index: 220;
+}
+.Product_6 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 217;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 216;
+}
+._19_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.429;
+  text-align: center;
+  position: absolute;
+  left: 533.064px;
+  top: 1938.575px;
+  z-index: 215;
+}
+.Ollo_Clip_New {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(28, 30, 35);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 506.938px;
+  top: 1878.546px;
+  z-index: 214;
+}
+.Silver {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(184, 191, 211);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 531.105px;
+  top: 1894.8px;
+  z-index: 213;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 211;
+}
+.Placeholder {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 415px;
+  top: 1600px;
+  width: 270px;
+  height: 380px;
+  z-index: 209;
+}
+.Product_7 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 206;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 205;
+}
+._19_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.429;
+  text-align: center;
+  position: absolute;
+  left: 833.064px;
+  top: 1952.575px;
+  z-index: 204;
+}
+.Fitbit_Charge_HR_Heart_Rate__and_Activity_Tracker {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(28, 30, 35);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 759.938px;
+  top: 1878.546px;
+  z-index: 203;
+}
+.Black {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(184, 191, 211);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 831.937px;
+  top: 1908.8px;
+  z-index: 202;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 200;
+}
+.Placeholder {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 715px;
+  top: 1600px;
+  width: 270px;
+  height: 380px;
+  z-index: 198;
+}
+.Product_8 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 195;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 194;
+}
+._49_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.429;
+  text-align: center;
+  position: absolute;
+  left: 1133.064px;
+  top: 1952.575px;
+  z-index: 193;
+}
+.Apple_Watch_Sport_38mm__Silver_Aluminum_Case {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(28, 30, 35);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 1065.937px;
+  top: 1878.546px;
+  z-index: 192;
+}
+.White {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(184, 191, 211);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1131.935px;
+  top: 1908.3px;
+  z-index: 191;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 189;
+}
+.Placeholder {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 1015px;
+  top: 1600px;
+  width: 270px;
+  height: 380px;
+  z-index: 187;
+}
+.Product_9 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 184;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 183;
+}
+._119_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.429;
+  text-align: center;
+  position: absolute;
+  left: 529.064px;
+  top: 2362.575px;
+  z-index: 182;
+}
+.Bose_SoundLink__On_Ear_Headphones {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(28, 30, 35);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 484.938px;
+  top: 2288.546px;
+  z-index: 181;
+}
+.White {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(184, 191, 211);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 531.935px;
+  top: 2318.3px;
+  z-index: 180;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 178;
+}
+.Placeholder {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 415px;
+  top: 2010px;
+  width: 270px;
+  height: 380px;
+  z-index: 176;
+}
+.Product_10 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 173;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 172;
+}
+._99_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.429;
+  text-align: center;
+  position: absolute;
+  left: 833.064px;
+  top: 2362.575px;
+  z-index: 171;
+}
+.Sonos_Play_1_Wireless__HiFi_System {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(28, 30, 35);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 780.162px;
+  top: 2288.546px;
+  z-index: 170;
+}
+.Black {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(184, 191, 211);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 831.937px;
+  top: 2318.8px;
+  z-index: 169;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 167;
+}
+.Placeholder {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 715px;
+  top: 2010px;
+  width: 270px;
+  height: 380px;
+  z-index: 165;
+}
+.Product_11 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 162;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 161;
+}
+._49_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgba(28, 30, 35, 0.502);
+  line-height: 1.429;
+  text-align: center;
+  position: absolute;
+  left: 1132.064px;
+  top: 2116.575px;
+  z-index: 160;
+}
+.Nest_Learning_Thermostat___3rd_Generation {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(28, 30, 35);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 1061.937px;
+  top: 2065.546px;
+  z-index: 159;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 157;
+}
+.Layer_1 {
+  background-image: url("Layer 1.png");
+  position: absolute;
+  left: 893px;
+  top: 1993px;
+  width: 507px;
+  height: 592px;
+  z-index: 156;
+}
+.Placeholder {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 1015px;
+  top: 2010px;
+  width: 270px;
+  height: 380px;
+  z-index: 155;
+}
+.Best_Sellers {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 127;
+}
+.Header {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 126;
+}
+.Best_Sellers {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 661.938px;
+  top: 2581.9px;
+  z-index: 125;
+}
+.Line {
+  background-color: rgb(240, 242, 247);
+  position: absolute;
+  left: 115px;
+  top: 2615px;
+  width: 1170px;
+  height: 1px;
+  z-index: 124;
+}
+.Placeholder {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 115px;
+  top: 2560px;
+  width: 1170px;
+  height: 56px;
+  z-index: 123;
+}
+.Trainers {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 121;
+}
+.Description {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 120;
+}
+.Beanie {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 237.937px;
+  top: 2849.4px;
+  z-index: 119;
+}
+.£39_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(184, 191, 211);
+  text-decoration: line-through;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 207px;
+  top: 2906.1px;
+  z-index: 118;
+}
+.£29_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 270.534px;
+  top: 2906.1px;
+  z-index: 117;
+}
+.Green {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(161, 168, 189);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 243.937px;
+  top: 2874.9px;
+  z-index: 116;
+}
+.Photo {
+  background-image: url("Photo.png");
+  position: absolute;
+  left: 168px;
+  top: 2647px;
+  width: 181px;
+  height: 181px;
+  z-index: 114;
+}
+.T_Shirt_With_a_Print {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 112;
+}
+.Description {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 111;
+}
+.T_Shirt_With_a_Print {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 489.203px;
+  top: 2848.9px;
+  z-index: 110;
+}
+.£29_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(184, 191, 211);
+  text-decoration: line-through;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 497px;
+  top: 2906.1px;
+  z-index: 109;
+}
+.£19_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 560.534px;
+  top: 2906.1px;
+  z-index: 108;
+}
+.Dark_Blue {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(161, 168, 189);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 520.938px;
+  top: 2874.9px;
+  z-index: 107;
+}
+.Photo {
+  background-image: url("Photo.png");
+  position: absolute;
+  left: 466px;
+  top: 2607px;
+  width: 167px;
+  height: 252px;
+  z-index: 105;
+}
+.Hooded_Jacket {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 103;
+}
+.Description {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 102;
+}
+.Pile_Lined_Hooded_Jacket {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 767.937px;
+  top: 2848.9px;
+  z-index: 101;
+}
+.£49_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(184, 191, 211);
+  text-decoration: line-through;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 799px;
+  top: 2906.1px;
+  z-index: 100;
+}
+.£39_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 862.534px;
+  top: 2906.1px;
+  z-index: 99;
+}
+.Dark_Blue {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(161, 168, 189);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 822.938px;
+  top: 2874.9px;
+  z-index: 98;
+}
+.Photo {
+  background-image: url("Photo.png");
+  position: absolute;
+  left: 775px;
+  top: 2619px;
+  width: 151px;
+  height: 227px;
+  z-index: 96;
+}
+.Beanie {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 94;
+}
+.Description {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 93;
+}
+.Trainers {
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1110.203px;
+  top: 2849.4px;
+  z-index: 92;
+}
+.£39_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(184, 191, 211);
+  text-decoration: line-through;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 1083px;
+  top: 2906.1px;
+  z-index: 91;
+}
+.£29_99 {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 1146.534px;
+  top: 2906.1px;
+  z-index: 90;
+}
+.Space_Grey {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(161, 168, 189);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1104.092px;
+  top: 2874.9px;
+  z-index: 89;
+}
+.Photo {
+  background-image: url("Photo.png");
+  position: absolute;
+  left: 1051px;
+  top: 2630px;
+  width: 183px;
+  height: 274px;
+  z-index: 87;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 85;
+}
+.Dividers {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 84;
+}
+.Line {
+  background-color: rgb(240, 242, 247);
+  position: absolute;
+  left: 999px;
+  top: 2616px;
+  width: 1px;
+  height: 340px;
+  z-index: 83;
+}
+.Line {
+  background-color: rgb(240, 242, 247);
+  position: absolute;
+  left: 399px;
+  top: 2616px;
+  width: 1px;
+  height: 340px;
+  z-index: 82;
+}
+.Line {
+  background-color: rgb(240, 242, 247);
+  position: absolute;
+  left: 699px;
+  top: 2616px;
+  width: 1px;
+  height: 340px;
+  z-index: 81;
+}
+.Placeholder {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 115px;
+  top: 2616px;
+  width: 1170px;
+  height: 340px;
+  z-index: 79;
+}
+.Footer {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 34;
+}
+.Menu {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 33;
+}
+.Contacts {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 818.937px;
+  top: 3506.8px;
+  z-index: 32;
+}
+.About_Us {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 717.882px;
+  top: 3506.8px;
+  z-index: 31;
+}
+.Team {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 649.384px;
+  top: 3506.3px;
+  z-index: 30;
+}
+.Shop {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 579.105px;
+  top: 3506.8px;
+  z-index: 29;
+}
+.Home {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 506.937px;
+  top: 3506.8px;
+  z-index: 28;
+}
+.Socials {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 26;
+}
+.Twitter_Icon {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 1180px;
+  top: 3506px;
+  width: 17px;
+  height: 14px;
+  z-index: 25;
+}
+.Facebook_Icon {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 1225px;
+  top: 3504px;
+  width: 9px;
+  height: 18px;
+  z-index: 24;
+}
+.G__Icon {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 1258px;
+  top: 3505px;
+  width: 24px;
+  height: 15px;
+  z-index: 23;
+}
+.Divider {
+  border-radius: 0px;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.051;
+  position: absolute;
+  left: 100px;
+  top: 3588px;
+  width: 1200px;
+  height: 1px;
+  z-index: 21;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 20;
+}
+.Terms_and_Conditions {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgba(255, 255, 255, 0.302);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 1147.182px;
+  top: 3656.4px;
+  z-index: 19;
+}
+.Privacy_Policy {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgba(255, 255, 255, 0.302);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 1002.938px;
+  top: 3656.4px;
+  z-index: 18;
+}
+.She_gave_my_mother_such_a_turn__that_I_have_alw {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgba(255, 255, 255, 0.302);
+  line-height: 1.571;
+  text-align: left;
+  position: absolute;
+  left: 114.134px;
+  top: 3665.25px;
+  width: 519px;
+  height: 35px;
+  z-index: 17;
+}
+.Logo {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 15;
+}
+.Portland {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 115px;
+  top: 3500px;
+  width: 92px;
+  height: 25px;
+  z-index: 14;
+}
+.Background {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 3738px;
+  z-index: 12;
+}
+.Background {
+  background-color: rgb(34, 35, 40);
+  position: absolute;
+  left: 0px;
+  top: 3438px;
+  width: 1400px;
+  height: 300px;
+  z-index: 11;
+}
